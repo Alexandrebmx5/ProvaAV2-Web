@@ -1,0 +1,57 @@
+﻿@model IEnumerable<WebApp.Models.VeiculoViewModel>
+@{
+    ViewData["Title"] = "Listar";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Listar Veículos</h1>
+
+<p>
+    <a asp-action="Criar" class="btn btn-primary">Criar Novo</a>
+</p>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Marca)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Modelo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ano)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quilometragem)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <th>
+                @Html.DisplayFor(modelItem => item.Marca)
+            </th>
+            <th>
+                @Html.DisplayFor(modelItem => item.Modelo)
+            </th>
+            <th>
+                @Html.DisplayFor(modelItem => item.Ano)
+            </th>
+            <th>
+                @Html.DisplayFor(modelItem => item.Quilometragem)
+            </th>
+            <td>
+                <div class="btn-group">
+                    @Html.ActionLink("Alterar", "Alterar", new { id = item.Id }, new { @class = "btn btn-outline-info" })
+                    @Html.ActionLink("Detalhar", "Detalhar", new { id = item.Id }, new { @class = "btn btn-outline-info" })
+                    @Html.ActionLink("Excluir", "Excluir", new { id = item.Id }, new { @class = "btn btn-outline-danger", @onClick = "javascript:return" + " confirm('Confirma a Exclusão?')" })
+                </div>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

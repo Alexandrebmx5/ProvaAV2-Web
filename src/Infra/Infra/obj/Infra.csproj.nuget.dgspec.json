@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Faculdade 5 Periodo\\Materia - Programação Web\\Prova AV2\\Projeto Prova AV2\\ProvaAV2\\src\\Infra\\Infra\\Infra.csproj": {}
+  },
+  "projects": {
+    "D:\\Faculdade 5 Periodo\\Materia - Programação Web\\Prova AV2\\Projeto Prova AV2\\ProvaAV2\\src\\Dominio\\Dominio\\Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Faculdade 5 Periodo\\Materia - Programação Web\\Prova AV2\\Projeto Prova AV2\\ProvaAV2\\src\\Dominio\\Dominio\\Dominio.csproj",
+        "projectName": "Dominio",
+        "projectPath": "D:\\Faculdade 5 Periodo\\Materia - Programação Web\\Prova AV2\\Projeto Prova AV2\\ProvaAV2\\src\\Dominio\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\Alexandre Soares\\.nuget\\packages\\",
+        "outputPath": "D:\\Faculdade 5 Periodo\\Materia - Programação Web\\Prova AV2\\Projeto Prova AV2\\ProvaAV2\\src\\Dominio\\Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alexandre Soares\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Faculdade 5 Periodo\\Materia - Programação Web\\Prova AV2\\Projeto Prova AV2\\ProvaAV2\\src\\Infra\\Infra\\Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Faculdade 5 Periodo\\Materia - Programação Web\\Prova AV2\\Projeto Prova AV2\\ProvaAV2\\src\\Infra\\Infra\\Infra.csproj",
+        "projectName": "Infra",
+        "projectPath": "D:\\Faculdade 5 Periodo\\Materia - Programação Web\\Prova AV2\\Projeto Prova AV2\\ProvaAV2\\src\\Infra\\Infra\\Infra.csproj",
+        "packagesPath": "C:\\Users\\Alexandre Soares\\.nuget\\packages\\",
+        "outputPath": "D:\\Faculdade 5 Periodo\\Materia - Programação Web\\Prova AV2\\Projeto Prova AV2\\ProvaAV2\\src\\Infra\\Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alexandre Soares\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Faculdade 5 Periodo\\Materia - Programação Web\\Prova AV2\\Projeto Prova AV2\\ProvaAV2\\src\\Dominio\\Dominio\\Dominio.csproj": {
+                "projectPath": "D:\\Faculdade 5 Periodo\\Materia - Programação Web\\Prova AV2\\Projeto Prova AV2\\ProvaAV2\\src\\Dominio\\Dominio\\Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

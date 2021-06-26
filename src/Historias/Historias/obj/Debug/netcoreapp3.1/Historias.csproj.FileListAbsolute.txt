@@ -1,0 +1,14 @@
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova AV2\Projeto Prova AV2\ProvaAV2\src\Historias\Historias\obj\Debug\netcoreapp3.1\Historias.csproj.AssemblyReference.cache
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova AV2\Projeto Prova AV2\ProvaAV2\src\Historias\Historias\obj\Debug\netcoreapp3.1\Historias.AssemblyInfoInputs.cache
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova AV2\Projeto Prova AV2\ProvaAV2\src\Historias\Historias\obj\Debug\netcoreapp3.1\Historias.AssemblyInfo.cs
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova AV2\Projeto Prova AV2\ProvaAV2\src\Historias\Historias\obj\Debug\netcoreapp3.1\Historias.csproj.CoreCompileInputs.cache
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova AV2\Projeto Prova AV2\ProvaAV2\src\Historias\Historias\bin\Debug\netcoreapp3.1\Historias.deps.json
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova AV2\Projeto Prova AV2\ProvaAV2\src\Historias\Historias\bin\Debug\netcoreapp3.1\Historias.dll
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova AV2\Projeto Prova AV2\ProvaAV2\src\Historias\Historias\bin\Debug\netcoreapp3.1\Historias.pdb
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova AV2\Projeto Prova AV2\ProvaAV2\src\Historias\Historias\bin\Debug\netcoreapp3.1\Dominio.dll
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova AV2\Projeto Prova AV2\ProvaAV2\src\Historias\Historias\bin\Debug\netcoreapp3.1\Infra.dll
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova AV2\Projeto Prova AV2\ProvaAV2\src\Historias\Historias\bin\Debug\netcoreapp3.1\Infra.pdb
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova AV2\Projeto Prova AV2\ProvaAV2\src\Historias\Historias\bin\Debug\netcoreapp3.1\Dominio.pdb
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova AV2\Projeto Prova AV2\ProvaAV2\src\Historias\Historias\obj\Debug\netcoreapp3.1\Historias.csproj.CopyComplete
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova AV2\Projeto Prova AV2\ProvaAV2\src\Historias\Historias\obj\Debug\netcoreapp3.1\Historias.dll
+D:\Faculdade 5 Periodo\Materia - Programação Web\Prova AV2\Projeto Prova AV2\ProvaAV2\src\Historias\Historias\obj\Debug\netcoreapp3.1\Historias.pdb
